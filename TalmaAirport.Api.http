@@ -1,0 +1,6 @@
+@TalmaAirport.Api_HostAddress = http://localhost:5147
+
+GET {{TalmaAirport.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
