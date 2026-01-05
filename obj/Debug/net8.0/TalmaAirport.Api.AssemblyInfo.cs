@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalmaAirport.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+191d75ff4f69bc9ab345ad01040bef766600f41f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalmaAirport.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalmaAirport.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
